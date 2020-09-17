@@ -2,13 +2,6 @@
    September 17, 2020
    Labyrinth Control Program
    Gareth Koch
-
-   This program allows for one joystick to control the attitude
-   of the marble labyrinth via a pair of servos mounted with
-   perpendicular axes
-
-   The neutral position and maximum deviation from it can
-   be adjusted in the "Servo parameters" section below
 */
 
 #include <Servo.h>
